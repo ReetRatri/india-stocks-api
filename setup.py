@@ -21,6 +21,4 @@ setup(
 )
 
 
-# program by Neha
 
-# 
